@@ -2,7 +2,7 @@
 <html>
 <head>
   
-  <h1> Hello all Good morning ! my name is naveen  hello My name is Naveen Srikanth.k< Hello Haiii reee /h1>
+  <h1> Naveen Info Tech V:1.0 /h1>
 
 </body>
 </html>
