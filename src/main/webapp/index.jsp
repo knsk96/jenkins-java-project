@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
-  <h1> OLA APPLICATION VERSION-1.2.0
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
-
-
-
